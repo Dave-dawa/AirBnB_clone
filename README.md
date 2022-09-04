@@ -65,5 +65,5 @@ All the code is tested with the **unittest** module.
 The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
--**Dawit Aklilu** - [dawa.dejene@gmail.com](https://github.com/Dave-dawa/AirBnB_clone)
--**Abrham Taye** - [abrhamtayetessfaye@gmail.com](https://github.com/)
+..**Dawit Aklilu** - [dawa.dejene@gmail.com](https://github.com/Dave-dawa)
+..**Abrham Taye** - [abrhamtayetessfaye@gmail.com](https://github.com/Abrhamtaye7)
