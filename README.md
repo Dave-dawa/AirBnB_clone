@@ -1,5 +1,5 @@
 # AirBnB_clone
-![hbnb-screenshot] <img src="https://www.citypng.com/public/uploads/preview/-31600814645r12wwzenhe.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/330px-Airbnb_Logo_B%C3%A9lo.svg.png">
 ## Description
 
 This team project is part of the ALX Software Engineer program.
