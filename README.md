@@ -1,5 +1,7 @@
 # AirBnB_clone
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/330px-Airbnb_Logo_B%C3%A9lo.svg.png">
+
 ## Description
 
 This team project is part of the ALX Software Engineer program.
@@ -64,4 +66,4 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 -**Dawit Aklilu** - [dawa.dejene@gmail.com](https://github.com/Dave-dawa/AirBnB_clone)
--**Abrham Taye** - [@gmail.com](https://github.com/)
+-**Abrham Taye** - [abrhamtayetessfaye@gmail.com](https://github.com/)
